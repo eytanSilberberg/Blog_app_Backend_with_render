@@ -1,0 +1,22 @@
+# Python-related
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+*.egg
+*.log
+.venv
+
+# IDE/editor-specific
+.vscode/
+.idea/
+
+# Environment variables
+# .env
+# .env.*
+
+# Testing
+.pytest_cache/
